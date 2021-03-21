@@ -12,7 +12,7 @@
 //console.log(nome);
 
 let pessoa = {
-    nome: 'Gleydiston',
+    nome: 'Gleydiston Barreto',
     idade : 27,
     altura : 1.71
 };
